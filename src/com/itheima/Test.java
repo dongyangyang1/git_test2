@@ -7,5 +7,6 @@ public class Test {
         System.out.println(123455);
         System.out.println(123455);
         System.out.println(123455);
+        System.out.println("123456");
     }
 }
